@@ -1,7 +1,7 @@
 package com.continentino.hrpayroll.resources;
 
 import com.continentino.hrpayroll.entities.Payment;
-import com.continentino.hrpayroll.entities.PaymentService;
+import com.continentino.hrpayroll.service.PaymentService;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
